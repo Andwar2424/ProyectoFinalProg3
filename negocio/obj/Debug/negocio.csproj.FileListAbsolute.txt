@@ -1,0 +1,12 @@
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\negocio\bin\Debug\negocio.dll
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\negocio\bin\Debug\negocio.pdb
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\negocio\obj\Debug\negocio.dll
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\negocio\obj\Debug\negocio.pdb
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\negocio\bin\Debug\negocio.dll
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\negocio\bin\Debug\negocio.pdb
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\negocio\obj\Debug\negocio.dll
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\negocio\obj\Debug\negocio.pdb

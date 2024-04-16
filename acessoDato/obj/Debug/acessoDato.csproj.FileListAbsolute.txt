@@ -1,0 +1,33 @@
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\acessoDato\bin\Debug\acessoDato.dll
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\acessoDato\bin\Debug\acessoDato.pdb
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\acessoDato\bin\Debug\Conecion.dll
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\acessoDato\bin\Debug\negocio.dll
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\acessoDato\bin\Debug\Conecion.pdb
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\acessoDato\bin\Debug\negocio.pdb
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\acessoDato\obj\Debug\acessoDato.csproj.AssemblyReference.cache
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\acessoDato\obj\Debug\acessoDato.csproj.CoreCompileInputs.cache
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\acessoDato\obj\Debug\acessoDato.csproj.CopyComplete
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\acessoDato\obj\Debug\acessoDato.dll
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\acessoDato\obj\Debug\acessoDato.pdb
+C:\Users\HP\Desktop\mvc\acessoDato\bin\Debug\acessoDato.dll
+C:\Users\HP\Desktop\mvc\acessoDato\bin\Debug\acessoDato.pdb
+C:\Users\HP\Desktop\mvc\acessoDato\bin\Debug\Conecion.dll
+C:\Users\HP\Desktop\mvc\acessoDato\bin\Debug\negocio.dll
+C:\Users\HP\Desktop\mvc\acessoDato\bin\Debug\Conecion.pdb
+C:\Users\HP\Desktop\mvc\acessoDato\bin\Debug\negocio.pdb
+C:\Users\HP\Desktop\mvc\acessoDato\obj\Debug\acessoDato.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\mvc\acessoDato\obj\Debug\acessoDato.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\mvc\acessoDato\obj\Debug\acessoDato.csproj.CopyComplete
+C:\Users\HP\Desktop\mvc\acessoDato\obj\Debug\acessoDato.dll
+C:\Users\HP\Desktop\mvc\acessoDato\obj\Debug\acessoDato.pdb
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\acessoDato\bin\Debug\acessoDato.dll
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\acessoDato\bin\Debug\acessoDato.pdb
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\acessoDato\bin\Debug\Conecion.dll
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\acessoDato\bin\Debug\negocio.dll
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\acessoDato\bin\Debug\Conecion.pdb
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\acessoDato\bin\Debug\negocio.pdb
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\acessoDato\obj\Debug\acessoDato.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\acessoDato\obj\Debug\acessoDato.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\acessoDato\obj\Debug\acessoDato.csproj.CopyComplete
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\acessoDato\obj\Debug\acessoDato.dll
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\acessoDato\obj\Debug\acessoDato.pdb

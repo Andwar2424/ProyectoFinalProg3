@@ -1,0 +1,71 @@
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\bin\Debug\front.exe.config
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\bin\Debug\front.exe
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\bin\Debug\front.pdb
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\obj\Debug\front.csproj.AssemblyReference.cache
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\obj\Debug\front.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\obj\Debug\front.Buscar.resources
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\obj\Debug\front.Eliminar.resources
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\obj\Debug\front.Form1.resources
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\obj\Debug\front.insertar.resources
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\obj\Debug\front.modificar.resources
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\obj\Debug\front.Properties.Resources.resources
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\obj\Debug\front.csproj.GenerateResource.cache
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\obj\Debug\front.csproj.CoreCompileInputs.cache
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\obj\Debug\front.exe
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\obj\Debug\front.pdb
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\bin\Debug\acessoDato.dll
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\bin\Debug\negocio.dll
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\bin\Debug\Conecion.dll
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\bin\Debug\acessoDato.pdb
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\bin\Debug\negocio.pdb
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\bin\Debug\Conecion.pdb
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\obj\Debug\front.csproj.CopyComplete
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\obj\Debug\front.login.resources
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\front\obj\Debug\front.registro.resources
+C:\Users\HP\Desktop\mvc\front\bin\Debug\front.exe.config
+C:\Users\HP\Desktop\mvc\front\bin\Debug\front.exe
+C:\Users\HP\Desktop\mvc\front\bin\Debug\front.pdb
+C:\Users\HP\Desktop\mvc\front\bin\Debug\acessoDato.dll
+C:\Users\HP\Desktop\mvc\front\bin\Debug\negocio.dll
+C:\Users\HP\Desktop\mvc\front\bin\Debug\Conecion.dll
+C:\Users\HP\Desktop\mvc\front\bin\Debug\acessoDato.pdb
+C:\Users\HP\Desktop\mvc\front\bin\Debug\negocio.pdb
+C:\Users\HP\Desktop\mvc\front\bin\Debug\Conecion.pdb
+C:\Users\HP\Desktop\mvc\front\obj\Debug\front.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\mvc\front\obj\Debug\front.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\mvc\front\obj\Debug\front.Buscar.resources
+C:\Users\HP\Desktop\mvc\front\obj\Debug\front.Eliminar.resources
+C:\Users\HP\Desktop\mvc\front\obj\Debug\front.Form1.resources
+C:\Users\HP\Desktop\mvc\front\obj\Debug\front.insertar.resources
+C:\Users\HP\Desktop\mvc\front\obj\Debug\front.login.resources
+C:\Users\HP\Desktop\mvc\front\obj\Debug\front.modificar.resources
+C:\Users\HP\Desktop\mvc\front\obj\Debug\front.Properties.Resources.resources
+C:\Users\HP\Desktop\mvc\front\obj\Debug\front.registro.resources
+C:\Users\HP\Desktop\mvc\front\obj\Debug\front.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\mvc\front\obj\Debug\front.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\mvc\front\obj\Debug\front.csproj.CopyComplete
+C:\Users\HP\Desktop\mvc\front\obj\Debug\front.exe
+C:\Users\HP\Desktop\mvc\front\obj\Debug\front.pdb
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\front\bin\Debug\front.exe.config
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\front\bin\Debug\front.exe
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\front\bin\Debug\front.pdb
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\front\bin\Debug\acessoDato.dll
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\front\bin\Debug\negocio.dll
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\front\bin\Debug\Conecion.dll
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\front\bin\Debug\acessoDato.pdb
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\front\bin\Debug\negocio.pdb
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\front\bin\Debug\Conecion.pdb
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\front\obj\Debug\front.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\front\obj\Debug\front.Buscar.resources
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\front\obj\Debug\front.Eliminar.resources
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\front\obj\Debug\front.Form1.resources
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\front\obj\Debug\front.insertar.resources
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\front\obj\Debug\front.login.resources
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\front\obj\Debug\front.modificar.resources
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\front\obj\Debug\front.Properties.Resources.resources
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\front\obj\Debug\front.registro.resources
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\front\obj\Debug\front.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\front\obj\Debug\front.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\front\obj\Debug\front.csproj.CopyComplete
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\front\obj\Debug\front.exe
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\front\obj\Debug\front.pdb

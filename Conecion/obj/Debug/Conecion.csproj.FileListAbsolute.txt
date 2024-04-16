@@ -1,0 +1,18 @@
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\Conecion\bin\Debug\Conecion.dll
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\Conecion\bin\Debug\Conecion.pdb
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\Conecion\obj\Debug\Conecion.csproj.AssemblyReference.cache
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\Conecion\obj\Debug\Conecion.csproj.CoreCompileInputs.cache
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\Conecion\obj\Debug\Conecion.dll
+C:\Users\Fanta\OneDrive\Escritorio\ITLA\new cuatrimestr\pro\agenda\mvc\Conecion\obj\Debug\Conecion.pdb
+C:\Users\HP\Desktop\mvc\Conecion\bin\Debug\Conecion.dll
+C:\Users\HP\Desktop\mvc\Conecion\bin\Debug\Conecion.pdb
+C:\Users\HP\Desktop\mvc\Conecion\obj\Debug\Conecion.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\mvc\Conecion\obj\Debug\Conecion.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\mvc\Conecion\obj\Debug\Conecion.dll
+C:\Users\HP\Desktop\mvc\Conecion\obj\Debug\Conecion.pdb
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\Conecion\bin\Debug\Conecion.dll
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\Conecion\bin\Debug\Conecion.pdb
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\Conecion\obj\Debug\Conecion.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\Conecion\obj\Debug\Conecion.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\Conecion\obj\Debug\Conecion.dll
+C:\Users\HP\Desktop\Cosas\ProyectoFinal\Conecion\obj\Debug\Conecion.pdb
